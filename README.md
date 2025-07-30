@@ -25,14 +25,14 @@ This project is a complete, end-to-end computer vision application that performs
 
 ---
 ```bash
-## 🚀 How to Run
+🚀 How to Run
 
 To run this application on your local machine, you need to have Docker and Docker Compose installed.
 
 1. Clone the Repository
 
 
-git clone <your-repository-url>
+git clone https://github.com/PseudoGod541/real-time-object-detection
 cd <your-project-directory>
 
 2. Download the SORT tracker script
